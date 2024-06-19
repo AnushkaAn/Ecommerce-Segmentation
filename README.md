@@ -7,9 +7,11 @@
 This project aims to analyze customer behavior and segment customers based on their interaction and purchasing patterns. Understanding customer segments can help businesses tailor marketing strategies, improve customer retention, and optimize product offerings.
 
 **DataSet**
+
 The dataset (ecom customer_data.xlsx) contains information about customers including their gender, orders, and various types of searches they performed on an e-commerce platform.
 
 **Workflow**
+
 The project workflow is structured as follows:
 
 **1. Data Loading and Preprocessing**
@@ -52,6 +54,7 @@ Execution: Run the Python script (customer_segmentation.py) to execute the entir
 2. customer_segmentation.py: Python script implementing data analysis, preprocessing, clustering, and visualization.
    
 **Authors**
+
 Anushka Sharma: https://github.com/AnushkaAn/
 
 **Acknowledgments**
